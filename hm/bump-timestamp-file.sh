@@ -7,8 +7,7 @@ git clone resource-gist updated-gist
 
 cd updated-gist
 cd my-app
-npm run
-npm run build
+npm build
 
 git config user.email "branden.lee.hj@gmail.com"
 git config user.name "branden lee"
