@@ -23,7 +23,7 @@ class Board extends React.Component {
             if(this.state.fPlayer) {
                 squares[i] = 'X';
             } else {
-                squares[i] = 'O';
+                squares[i] = 'I';
             }
         this.setState({fPlayer: !this.state.fPlayer, squares: squares});
         }
