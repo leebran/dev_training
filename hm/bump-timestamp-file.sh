@@ -14,4 +14,5 @@ git config user.email "branden.lee.hj@gmail.com"
 git config user.name "branden lee"
 
 git add .
-git commit -m "first try"
+git commit -m "pushing build"
+git push
